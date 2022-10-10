@@ -7,3 +7,6 @@ node-red
 atlrgnai
 
 vi sion ls ot by haedy!
+
+
+viva da, lasev
